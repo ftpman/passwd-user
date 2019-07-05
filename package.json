@@ -3,7 +3,7 @@
 	"version": "3.0.0",
 	"description": "Get the passwd user entry from a username or user identifier (UID)",
 	"license": "MIT",
-	"repository": "sindresorhus/passwd-user",
+	"repository": "ftpman/passwd-user#custom",
 	"author": {
 		"name": "Sindre Sorhus",
 		"email": "sindresorhus@gmail.com",
@@ -40,9 +40,7 @@
 		"passwords",
 		"identifier"
 	],
-	"dependencies": {
-		"execa": "^1.0.0"
-	},
+	"dependencies": {},
 	"devDependencies": {
 		"ava": "^1.4.1",
 		"tsd": "^0.7.2",
